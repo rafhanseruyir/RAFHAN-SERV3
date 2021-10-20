@@ -15,8 +15,8 @@
 ## HOW TO INSTALL ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/aneeslub/paul-walker
-> cd paul-walker
+> git clone https://github.com/Dilmano/TYCOON-SER
+> cd TYCOON-SER
 > npm i -g npm@6.14.14
 > npm install @adiwajshing/bailyes
 > npm install terminal-kit
@@ -25,8 +25,8 @@
 ```
 ## HOW TO INSTALL ON PC
 ```bash
-> git clone https://github.com/aneeslub/paul-walker
-> cd paul-walker
+> git clone https://github.com/Dilmano/TYCOON-SER
+> cd TYCOON-SER
 > npm install terminal-kit
 > npm i
 > npm start/node index.js
@@ -40,6 +40,6 @@
 
 # THANKS TO
 * [`Baileys`](https://github.com/adiwajshing/Baileys) 
-* [`aneeslub`](https://github.com/aneeslub) 
+* [`AMEEN SER`](https://github.com/Dilmano) 
   
   
