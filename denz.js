@@ -1044,71 +1044,68 @@ menu =`╭─❒ 「 𝙸𝙽𝙵𝙾🐦 」 ❒──❒
 sendButLocation(from, `${menu}`, "ꪶ𝑨𝑴𝑬𝑬𝑵⇥𝑺𝑬𝑹ꫂ⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`owner`,buttonText:{displayText:'🐦OWNER'},type:1},{buttonId:`script`,buttonText:{displayText:'📒SCRIPT'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 break
 case 'menu':
- stod = `${sender}`
- listMsg = {
- buttonText: '𝙻𝙸𝚂𝚃 𝙼𝙴𝙽𝚄⁩',
- footerText: '*_© ꪶ𝑨𝑴𝑬𝑬𝑵⇥𝑺𝑬𝑹ꫂ⁩_*',
- description: `𝙷𝙸 𝙱𝚁𝙾 @${stod.split('@')[0]}, 𝚃𝙷𝙸𝚂 𝙸𝚂 𝙻𝙸𝚂𝚃 𝙼𝙴𝙽𝚄`,
- sections: [
-                     {
-                      "title": `ꪶ𝑨𝑴𝑬𝑬𝑵⇥𝑺𝑬𝑹ꫂ⁩`,
- rows: [
-                          {
-                              "title": "Script",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "Speed",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "Status",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "Creator",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "Jadibot",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "Runtime",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "OwnerMenu",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "MakerMenu",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "GroupMenu",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "OtherMenu",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "DownloadMenu",
-                              "rowId": ""
-                           }
-                        ]
-                     }],
- listType: 1
+let pi=denz["prepareMessageFromContent"](from,{
+"listMessage":{
+"title":"ʜɪ ʙʀᴏ ᴛʜɪs ɪs ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ⁩ ᴍᴇɴᴜ","description":`${""}
+     ʜɪ ʙʀᴏ  ${pushname}     
+╔༆ᴄʀᴇᴀᴛᴏʀ⟼ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ⁩
+║༄ᴠᴇʀsɪᴏɴ⟼3.0
+║༄ʙᴏᴛɴᴀᴍᴇ⟼ī.ᴀᴍ/ꪶ͢sᴋʏʟɪɴᴇꫂ⁩
+║༄ᴘʀᴇғɪx⟼(ᴍᴜʟᴛɪ ᴘʀᴇғɪx)
+║༄sᴛᴀᴛᴜs⟼ ${publik ? 'ᴘᴜʙʟɪᴄ ɴᴏᴡ' : 'sᴇʟғ ɴᴏᴡ'} 
+╚༄ᴏᴡɴᴇʀ⟼ @917356378949             
+${tampilHari}
+${" "}
+   ʜɪ ʙʀᴏ ${pushname}   ᴅᴏɴᴛ ᴄʟɪᴄᴋ ᴍᴇɴᴜ
+${""}
+`,"buttonText":" (ᴍᴇɴᴜ) ","listType":"SINGLE_SELECT","sections":[{
+"title":"sᴇʟᴇᴄᴛ ᴀ ᴍᴇɴᴜ","rows":[{
+"title":"convertmenu","rowId":"0"
 }
-denz.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [stod]},quoted:ftrol})
+,{"title":"downlodmenu","rowId":"0"}
+,{"title":"groupmenu","rowId":"0"}
+,{"title":"makermenu","rowId":"0"}
+,{"title":"othermenu","rowId":"0"}
+,{"title":"ownermenu","rowId":"0"}
+,{"title":"allmenu","rowId":"0"}
+,{"title":"owner","rowId":"0"}
+]}]}},{});denz.relayWAMessage(pi,{waitForAck:true})
+
+breacase 'menu':
+let pi=denz["prepareMessageFromContent"](from,{
+"listMessage":{
+"title":"ʜɪ ʙʀᴏ ᴛʜɪs ɪs ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ⁩ ᴍᴇɴᴜ","description":`${""}
+     ʜɪ ʙʀᴏ  ${pushname}     
+╔༆ᴄʀᴇᴀᴛᴏʀ⟼ꪶ͢𝑰𝑨𝑴 ͢𝐴𝑀𝐸𝐸𝑁ꫂ
+║༄ᴠᴇʀsɪᴏɴ⟼3.0
+║༄ʙᴏᴛɴᴀᴍᴇ⟼ī.
+║༄ᴘʀᴇғɪx⟼(ᴍᴜʟᴛɪ ᴘʀᴇғɪx)
+║༄sᴛᴀᴛᴜs⟼ ${publik ? 'ᴘᴜʙʟɪᴄ ɴᴏᴡ' : 'sᴇʟғ ɴᴏᴡ'} 
+╚༄ᴏᴡɴᴇʀ⟼ @917994909899            
+${tampilHari}
+${" "}
+   ʜɪ ʙʀᴏ ${pushname}   ᴅᴏɴᴛ ᴄʟɪᴄᴋ ᴍᴇɴᴜ
+${""}
+`,"buttonText":" (ᴍᴇɴᴜ) ","listType":"SINGLE_SELECT","sections":[{
+"title":"sᴇʟᴇᴄᴛ ᴀ ᴍᴇɴᴜ","rows":[{
+"title":"convertmenu","rowId":"0"
+}
+,{"title":"downlodmenu","rowId":"0"}
+,{"title":"groupmenu","rowId":"0"}
+,{"title":"makermenu","rowId":"0"}
+,{"title":"othermenu","rowId":"0"}
+,{"title":"ownermenu","rowId":"0"}
+,{"title":"allmenu","rowId":"0"}
+,{"title":"owner","rowId":"0"}
+]}]}},{});denz.relayWAMessage(pi,{waitForAck:true})
+
 break
 case 'ownermenu':
 menu = `❏ 「 \`\`\`𝙾𝙽𝚆𝙴𝚁 𝙼𝙴𝙽𝚄\`\`\` 」
 ├────────────────────
 ├➩➫ ${prefix}stopjadibot
 │
-├➩➫ ${prefix} setthumb [ 𝚛𝚎𝚙𝚕𝚢 𝚝𝚘 𝚒𝚖𝚊𝚐𝚎 ]
+├➩➫ ${prefix} setthumb
 │
 ├➩➫ ${prefix}autorespon [ _on/off_ ]
 │
