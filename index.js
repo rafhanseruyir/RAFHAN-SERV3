@@ -21,7 +21,7 @@ nocache('./denz.js', module => console.log(color('|TRM|'), color(`${module} Upda
 
 async function starts() {
 denz.autoReconnect = ReconnectMode.onConnectionLost
-    denz.version = [2, 2143,3]
+    denz.version = [3,3234,9]
     denz.logger.level = 'warn'
     await sleep(10000)
     denz.on('qr', qr => {
