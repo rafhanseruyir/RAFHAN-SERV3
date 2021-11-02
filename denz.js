@@ -1078,7 +1078,7 @@ menu =`━━━━━━━━━━━━━━━━
 ║༄ ${prefix}sᴘᴇᴇᴅ
 ╚༄ ${prefix}sᴇᴅ ʟʏғᴇ
  ╔༆
- ║ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ:https://instagram.com/synzx_nbx?utm_medium=copy_link
+ ║ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ:https://instagram.com/xy_lxx_.?utm_medium=copy_link
  ╚༄
 ╔✘*ᴛʀʏ ᴀɴʏ ᴛʜɪɴɢ✘
 ║༊ ${prefix}ᴏᴡɴᴇʀᴍᴇɴᴜ
@@ -1090,7 +1090,7 @@ menu =`━━━━━━━━━━━━━━━━
 ║༊ ${prefix}ᴏᴛʜᴇʀᴍᴇɴᴜ
 ╚✘ʙʀᴏ ᴅᴏɴᴛ ғᴏʟʟᴏᴡ ɢɪʀʟs✘
 
-༆ᴀᴅɪᴛʜʜᴀʀɪ / ᴀᴍᴇᴇɴ༄
+༆ᴀᴅɪᴛʜʜᴀʀɪ / ᴀɴᴇᴇs༄
 ʟᴏᴠᴇ ʏᴏᴜ ᴀʟʟ!`
 sendButLocation(from, `${menu}`, "ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`owner`,buttonText:{displayText:'🐦OWNER'},type:1},{buttonId:`script`,buttonText:{displayText:'📒SCRIPT'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 break
