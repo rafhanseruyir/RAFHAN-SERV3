@@ -1078,7 +1078,7 @@ menu =`━━━━━━━━━━━━━━━━
 ║༄ ${prefix}sᴘᴇᴇᴅ
 ╚༄ ${prefix}sᴇᴅ ʟʏғᴇ
  ╔༆
- ║ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ:https://instagram.com/xy_lxx_.?utm_medium=copy_link
+ ║ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ:https://instagram.com/synzx_nbx?utm_medium=copy_link
  ╚༄
 ╔✘*ᴛʀʏ ᴀɴʏ ᴛʜɪɴɢ✘
 ║༊ ${prefix}ᴏᴡɴᴇʀᴍᴇɴᴜ
@@ -1090,7 +1090,7 @@ menu =`━━━━━━━━━━━━━━━━
 ║༊ ${prefix}ᴏᴛʜᴇʀᴍᴇɴᴜ
 ╚✘ʙʀᴏ ᴅᴏɴᴛ ғᴏʟʟᴏᴡ ɢɪʀʟs✘
 
-༆ᴀᴅɪᴛʜʜᴀʀɪ / ᴀɴᴇᴇs༄
+༆ᴀᴅɪᴛʜʜᴀʀɪ / ᴀᴍᴇᴇɴ༄
 ʟᴏᴠᴇ ʏᴏᴜ ᴀʟʟ!`
 sendButLocation(from, `${menu}`, "ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`owner`,buttonText:{displayText:'🐦OWNER'},type:1},{buttonId:`script`,buttonText:{displayText:'📒SCRIPT'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 break
@@ -1543,7 +1543,7 @@ for (let i of ownerNumber) {
 const vname = denz.contacts[i] != undefined ? denz.contacts[i].vname || denz.contacts[i].notify : undefined
 ini_list.push({
 "displayName": `Developer ${NamaBot}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;paul walker;;;\nFN:${vname ? `${vname}` : `${denz.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:ɪɴᴅɪᴀ\nEND:VCARD`
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;AmeenSer;;;\nFN:${vname ? `${vname}` : `${denz.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:ɪɴᴅɪᴀ\nEND:VCARD`
 })
 }
 denz.sendMessage(from, {
@@ -1636,7 +1636,7 @@ break
 const buttons = [{buttonId: `menu`, buttonText: {displayText: 'BACK➡️'}, type: 1},{buttonId: `owner`, buttonText: {displayText: 'OWNER👤'}, type: 1}]
 const buttonMessage = {
     contentText: `${anu}`,
-    footerText: '*_©ꪶ𝑷𝑨𝑼𝑳 ⇥𝑾𝑨𝑳𝑲𝑬𝑹ꫂ_*',
+    footerText: '*_©ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴ_*',
     buttons: buttons,
     headerType: 1
 }
