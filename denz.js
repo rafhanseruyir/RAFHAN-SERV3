@@ -1078,7 +1078,7 @@ menu =`━━━━━━━━━━━━━━━━
 ║༄ ${prefix}sᴘᴇᴇᴅ
 ╚༄ ${prefix}sᴇᴅ ʟʏғᴇ
  ╔༆
- ║ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ:https://instagram.com/synzx_nbx?utm_medium=copy_link
+ ║ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ:https://instagram.com/xy_lxx_.?utm_medium=copy_link
  ╚༄
 ╔✘*ᴛʀʏ ᴀɴʏ ᴛʜɪɴɢ✘
 ║༊ ${prefix}ᴏᴡɴᴇʀᴍᴇɴᴜ
@@ -1090,7 +1090,7 @@ menu =`━━━━━━━━━━━━━━━━
 ║༊ ${prefix}ᴏᴛʜᴇʀᴍᴇɴᴜ
 ╚✘ʙʀᴏ ᴅᴏɴᴛ ғᴏʟʟᴏᴡ ɢɪʀʟs✘
 
-༆ᴀᴅɪᴛʜʜᴀʀɪ / ᴀᴍᴇᴇɴ༄
+༆ᴀᴅɪᴛʜʜᴀʀɪ / ᴀɴᴇᴇs༄
 ʟᴏᴠᴇ ʏᴏᴜ ᴀʟʟ!`
 sendButLocation(from, `${menu}`, "ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`owner`,buttonText:{displayText:'🐦OWNER'},type:1},{buttonId:`script`,buttonText:{displayText:'📒SCRIPT'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 break
@@ -1350,7 +1350,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'googletxt':
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙿𝙰𝚄𝙻|𝚆𝙰𝙻𝙺𝙴𝚁|𝙱𝙾𝚃`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽|𝚂𝙴𝚁|𝙱𝙾𝚃`)
 					makell = args.join(" ")
 					ll1 = makell.split("|")[0];
 					ll2 = makell.split("|")[1];
@@ -1361,7 +1361,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'battlefield': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙿𝙰𝚄𝙻|𝚆𝙰𝙻𝙺𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽|𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					ll1 = makell.split("|")[0];
 					ll2 = makell.split("|")[1];
@@ -3566,7 +3566,7 @@ break
 				case 'return':
 				if (!isOwner) return reply(mess.only.ownerB)
 					return denz.sendMessage(from, JSON.stringify(eval(body.slice(8))), text, {quoted: mek})
-					if (err) return denz.sendMessage(from, `root @Anees-Anz:~ ${err}`, text, { quoted: mek })
+					if (err) return denz.sendMessage(from, `root @Ameen-Ser:~ ${err}`, text, { quoted: mek })
                  break
                  case 'toimg':
 				case 'tomedia':
@@ -3955,7 +3955,7 @@ Giliran = @${tty.player1.split('@')[0]}`
             if (!e.includes("Cannot set property 'mtype' of undefined")) {
             if (!e.includes("jid is not defined")) {
      console.log(color('|ERR|', 'red'), color(e, 'cyan'))
-     denz.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `─────「 *ALERT-ERROR* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Anees ser",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/917994909899?text=Hi Bro"}}})
+     denz.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `─────「 *ALERT-ERROR* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Ameen ser",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/917994909899?text=Hi Bro"}}})
 	}
     }
     }
