@@ -324,29 +324,29 @@ try {
                         var jamss = ase.getHours();
                         switch(waktoo){
                 case 0: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😫"; break;
-                case 1: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😫"; break;
+                case 1: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - 😫"; break;
                 case 2: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😫"; break;
                 case 3: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😫"; break;
                 case 4: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😣"; break;
                 case 5: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😣"; break;
                 case 6: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
                 case 7: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
-                case 8: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😣⁩"; break;
-                case 9: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😣⁩"; break;
-                case 10: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😣⁩"; break;
-                case 11: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😣⁩"; break;
+                case 8: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
+                case 9: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
+                case 10: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
+                case 11: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
                 case 12: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
                 case 13: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
-                case 14: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😣⁩"; break;
+                case 14: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
                 case 15: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
                 case 16: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
                 case 17: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
-                case 18: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😣⁩"; break;
+                case 18: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
                 case 19: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😫"; break;
                 case 20: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😫"; break;
                 case 21: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😫"; break;
-                case 22: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😫⁩"; break;
-                case 23: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴘᴀᴜʟ ᴡᴀʟᴋᴇʀꫂ😫⁩"; break;
+                case 22: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😫⁩"; break;
+                case 23: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😫⁩"; break;
             }
             switch(jamss){
                 case 0: jamss = "sʟᴇᴇᴘ ʙʀᴏ😣"; break;
