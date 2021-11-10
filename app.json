@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-bot",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/Ameen-SER/TYCOON-V2",
+  "logo": "https://i.imgur.com/gKzRZxD.jpeg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+}
