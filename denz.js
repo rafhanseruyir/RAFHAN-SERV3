@@ -873,7 +873,7 @@ reply(String(e))
 			for (let anju of vien){
 				if (budy === anju){
 					result = fs.readFileSync(`./media/vn/${anju}.mp3`)
-					denz.sendMessage(from, result, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ ✘ ➫➬➭ ${anju}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ 𒈒➫➬➭  ${anju}`, sellerJid: '0@s.whatsapp.net'}}}, mimetype: 'audio/mp4', duration: 444444444444, ptt: true})
+					denz.sendMessage(from, result, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ ✘ ➫➬➭ ${anju}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ 𒈒➫➬➭  ${anju}`, sellerJid: '0@s.whatsapp.net'}}}, mimetype: 'audio/mp4', duration: 3599999964, ptt: true})
 					}
 			}
 			for (let anjh of imagi){
