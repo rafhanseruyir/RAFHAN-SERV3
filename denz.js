@@ -867,13 +867,13 @@ reply(String(e))
 			for (let anji of setik){
 				if (budy === anji){
 					result = fs.readFileSync(`./media/sticker/${anji}.webp`)
-					denz.sendMessage(from, result, sticker, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ ⁩✘ ➫➬➭ ${anji}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ 𒈒➫➬➭ ${anji}`, sellerJid: '0@s.whatsapp.net'}}}})
+					denz.sendMessage(from, result, sticker, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ᴛʏᴄᴏᴏɴꫂ ⁩✘ ➫➬➭ ${anji}`, orderTitle: `𒈒 ī.ᴀᴍ/ᴛʏᴄᴏᴏɴꫂ⁩ 𒈒➫➬➭ ${anji}`, sellerJid: '0@s.whatsapp.net'}}}})
 					}
 			}
 			for (let anju of vien){
 				if (budy === anju){
 					result = fs.readFileSync(`./media/vn/${anju}.mp3`)
-					denz.sendMessage(from, result, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ ✘ ➫➬➭ ${anju}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ 𒈒➫➬➭  ${anju}`, sellerJid: '0@s.whatsapp.net'}}}, mimetype: 'audio/mp4', duration: 3599999964, ptt: true})
+					denz.sendMessage(from, result, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 77777, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ᴛʏᴄᴏᴏɴꫂ⁩ ✘ ➫➬➭ ${anju}`, orderTitle: `𒈒 ī.ᴀᴍ/ᴛʏᴄᴏᴏɴꫂ⁩ 𒈒➫➬➭  ${anju}`, sellerJid: '0@s.whatsapp.net'}}}, mimetype: 'audio/mp4', duration: 359996400, ptt: true})
 					}
 			}
 			for (let anjh of imagi){
@@ -3024,13 +3024,13 @@ break
 						const encmedia = isQuotedAudio ? JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo : mek
 						buff = await denz.downloadMediaMessage(encmedia)
 						for (let _ of anu) {
-							denz.sendMessage(_.jid, buff, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `${bc}`, orderTitle: `${bc}`, sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 508, isForwarded: true}, mimetype: 'audio/mp4', duration: 7356663773663, ptt: true })
+							denz.sendMessage(_.jid, buff, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 359996400, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `${bc}`, orderTitle: `${bc}`, sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 508, isForwarded: true}, mimetype: 'audio/mp4', duration: 359996400, ptt: true })
 						}
 						} else if (isMedia && !mek.message.videoMessage || isQuotedSticker) {
 						const encmedia = isQuotedSticker ? JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo : mek
 						buff = await denz.downloadMediaMessage(encmedia)
 						for (let _ of anu) {
-							denz.sendMessage(_.jid, buff, sticker, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `${bc}`, orderTitle: `${bc}`, sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 508, isForwarded: true}})
+							denz.sendMessage(_.jid, buff, sticker, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `${bc}`, orderTitle: `${bc}`, sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 508, isForwarded: true}})
 							}
 							} else{
           reply('reply sticker/audio')
@@ -3703,7 +3703,7 @@ break
 					vien.push(`${nm}`)
 					fs.writeFileSync(`./media/vn/${nm}.mp3`, delb)
 					fs.writeFileSync('./database/vien.json', JSON.stringify(vien))
-					denz.sendMessage(from, `ᴀᴅᴅᴇᴅ ᴛᴏ ᴅᴀᴛᴀʙᴀsᴇ✔, *${prefix}listvn*`, MessageType.text, { quoted: mek })
+					denz.sendMessage(from, `𝙷𝙴𝙷𝙴 𝙱𝙶𝙼 𝙰𝙳𝙳𝙴𝙳, 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁 🌚🎗️`, MessageType.text, { quoted: mek })
 					break
 					case 'delvn':
 					if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)
@@ -3712,7 +3712,7 @@ break
 					 wanu = vien.indexOf(nmm)
 					 vien.splice(wanu, 1)
 					 fs.unlinkSync(`./media/vn/${nmm}.mp3`)
-					reply(`𝙳𝙾𝙽𝙴✔ ${body.slice(7)}`)
+					reply(`𝚂𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 𝙳𝙴𝙻𝙴𝚃𝙴𝙳 𝚃𝙷𝙴 𝙱𝙶𝙼 ✔ ${body.slice(7)}`)
 					} catch (err){
 						console.log(err)
 						reply(mess.error.api)
