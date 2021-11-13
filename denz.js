@@ -1295,7 +1295,19 @@ break
  `
      credit = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 8888888, "message": `${yez}`, "footerText": "©ī.ᴀᴍ/ᴀᴍᴇᴇɴꫂ⁩", "thumbnail": fs.readFileSync('./denz.jpg'), "surface": 'CATALOG'}}, {quoted: mek})
             denz.relayWAMessage(credit)
-        break		
+        break
+	case 'about':
+denz.sendMessage(from, `*ʜɪ ʙʀᴏ ${pushname}*
+
+┏━━𒆜 *ɪɴғᴏ*
+┃𒈒 *ɴᴀᴍᴇ ᴜsᴇʀ* : ${pushname}
+┃𒈒 *ɴᴀᴍᴇ ʙᴏᴛ* : ꪶ͢𝑇𝑌𝐶𝑂𝑂𝑁ꫂ⁩
+┃𒈒 *ɴᴀᴍᴇ ᴏᴡɴᴇʀ* : ꪶ͢ᴀᴍᴇᴇɴꫂ⁩
+┃𒈒 *ᴄʀᴇᴀᴛᴏʀ* : @917994909899
+┃𒈒 *sᴘᴇᴇᴅ* : 00065
+┗━━𒆜
+*ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ ᴀɴɴ ᴍᴡᴏɴᴇ*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "ꪶ͢𝐴𝑀𝐸𝐸𝑁ꫂ⁩",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg')}}})
+break		
 //Now
 case 'nuliskiri':
 if (!c) return reply('Wheres the text bro?')
