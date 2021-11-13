@@ -1275,6 +1275,27 @@ but = [
         ]
         sendButLocation(from, teksnya, teks, gambar, but)
 break		
+	case 'credit':
+   dtod = '917356378949'
+   dtod1 = '919946470485'
+   dtod2 = '6587253226'
+   dtod3 = '917560810451'
+   dtod4 ='0'
+   var yez = `
+╭───𒆜 𝑪𝑹𝑬𝑨𝑻𝑶𝑹𝑺
+│🥂 wa.me/${dtod.split('@')[0]}
+│🥂 wa.me/917994909899
+│🥂 wa.me/919946470485
+╰───────────────𒈒
+ ꪶ͢ᴘᴀᴜʟᴡᴀʟᴋᴇʀꫂ⁩💝
+ 
+ ꪶ͢ᴊɪɴɴsᴇʀꫂ💝
+ 
+ ꪶ͢ᴀᴍᴇᴇɴꫂ⁩💝
+ `
+     credit = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 8888888, "message": `${yez}`, "footerText": "©ī.ᴀᴍ/ᴀᴍᴇᴇɴꫂ⁩", "thumbnail": fs.readFileSync('./denz.jpg'), "surface": 'CATALOG'}}, {quoted: mek})
+            denz.relayWAMessage(credit)
+        break		
 //Now
 case 'nuliskiri':
 if (!c) return reply('Wheres the text bro?')
