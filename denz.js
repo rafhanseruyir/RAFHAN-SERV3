@@ -1092,7 +1092,7 @@ menu =`━━━━━━━━━━━━━━━━
 
 ༆ᴀᴅɪᴛʜʜᴀʀɪ / ᴀɴᴇᴇs༄
 ʟᴏᴠᴇ ʏᴏᴜ ᴀʟʟ!`
-sendButLocation(from, `${menu}`, "ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`owner`,buttonText:{displayText:'🐦OWNER'},type:1},{buttonId:`script`,buttonText:{displayText:'📒SCRIPT'},type:1}], {contextInfo: { mentionedJid: [otod]}})
+sendButLocation(from, `${menu}`, "ꪶᴀᴍᴇᴇɴꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`about`,buttonText:{displayText:'ᴀʙᴏᴜᴛ'},type:1},{buttonId:`donate`,buttonText:{displayText:'ᴅᴏɴᴀᴛᴇ'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 break
 case 'menu':
 let pi=denz["prepareMessageFromContent"](from,{
