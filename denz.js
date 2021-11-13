@@ -843,6 +843,12 @@ reply(String(e))
 			// AUTO
 			
  rspndbutton = (type == 'listResponseMessage') ? mek.message.listResponseMessage.selectedDisplayText : '';
+ if (rspndbutton) { if (rspndbutton == 'ping')
+ {denz.sendMessage(from, dwldm(), text, {quoted: mek})}}
+ 
+ if (rspndbutton) { if (rspndbutton == 'donate')
+ {denz.sendMessage(from, dwldm(), text, {quoted: mek})}}
+ 
  if (rspndbutton) { if (rspndbutton == 'downloadmenu')
  {denz.sendMessage(from, dwldm(), text, {quoted: mek})}} 		
  if (rspndbutton) { if (rspndbutton == 'groupmenu')
@@ -1120,6 +1126,8 @@ ${""}
 ,{"title":"ownermenu","rowId":"0"}
 ,{"title":"help","rowId":"0"}
 ,{"title":"owner","rowId":"0"}
+ ,{"title":"ping","rowId":"0"}
+ ,{"title":"donate","rowId":"0"}
 ]}]}},{});denz.relayWAMessage(pi,{waitForAck:true})
 
 break
