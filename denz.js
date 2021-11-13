@@ -1974,9 +1974,9 @@ break
 		}
 			  break
 case 'mode':
-buttonss = [{buttonId: `public`, buttonText: {displayText: 'PUBLIC👥'}, type: 1},{buttonId: `self`, buttonText: {displayText: 'SELF👤'}, type: 1}]
+buttonss = [{buttonId: `public`, buttonText: {displayText: '𝙋𝙐𝘽𝙇𝙄𝘾🐦'}, type: 1},{buttonId: `self`, buttonText: {displayText: '𝙎𝙀𝙇𝙁🎗️'}, type: 1}]
 const buMess = {
-    contentText: "SELF/PUBLIC",
+    contentText: "𝙎𝙀𝙇𝙁/𝙋𝙐𝘽𝙇𝙄𝘾",
     footerText: '𝙲𝙷𝙾𝙾𝚂𝙴 𝙰𝙽𝚈 𝙾𝙽𝙴!',
     buttons: buttonss,
     headerType: 1
