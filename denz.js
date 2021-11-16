@@ -257,7 +257,7 @@ try {
 			only: {
 				group: 'ᴏɴʟʏ ᴡɪᴛʜ ɪɴ ɢʀᴏᴜᴘ ᴅᴏɴᴛ ᴛʀʏ🙂',
 				ownerG: 'ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ ᴅᴏɴᴛ ᴛʀʏ🙂',
-				ownerB: '𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 ⁩ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😖',
+				ownerB: '𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 ⁩ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😖',
 				admin: 'ᴏɴʟʏ ғᴏʀ ᴀᴅᴍɪɴ🙂',
 				Badmin: 'ᴍᴀᴋᴇ ʙᴏᴛ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ😣'
 			}
@@ -290,7 +290,7 @@ try {
 		}
 		if (antibot === true) return
 		const katalog = (teks) => {
-             res = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 321, "message": teks, "footerText": "*_© ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩_*", "thumbnail": ofrply, "surface": 'CATALOG' }}, {quoted:ftrol})
+             res = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 321, "message": teks, "footerText": "*_© ī.ᴀᴍ/ꪶ͢𝐤𝐫𝐢𝐬𝐡𝐧𝐚𝐝𝐚𝐬_*", "thumbnail": ofrply, "surface": 'CATALOG' }}, {quoted:ftrol})
              denz.relayWAMessage(res)
         }
         const grupinv = (teks) => {
@@ -323,24 +323,24 @@ try {
                         var waktoo = ase.getHours();
                         var jamss = ase.getHours();
                         switch(waktoo){
-                case 0: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😫"; break;
+                case 0: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😫"; break;
                 case 1: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - 😫"; break;
-                case 2: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😫"; break;
-                case 3: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😫"; break;
+                case 2: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😫"; break;
+                case 3: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😫"; break;
                 case 4: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😣"; break;
                 case 5: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😣"; break;
-                case 6: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
-                case 7: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
+                case 6: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😣"; break;
+                case 7: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😣"; break;
                 case 8: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
                 case 9: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
                 case 10: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
                 case 11: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
-                case 12: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
-                case 13: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
+                case 12: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😣"; break;
+                case 13: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😣"; break;
                 case 14: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
-                case 15: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
-                case 16: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
-                case 17: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩😣"; break;
+                case 15: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😣"; break;
+                case 16: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😣"; break;
+                case 17: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩😣"; break;
                 case 18: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ😣⁩"; break;
                 case 19: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😫"; break;
                 case 20: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😫"; break;
@@ -621,7 +621,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
             if (isAfk(mek.key.remoteJid)) return
             addafk(mek.key.remoteJid)
 			heheh = ms(Date.now() - waktuafk)
-		  sendButMessage(from, `Hai ${pushname}, Sorry it seems at this time ${NamaOwner} currently Offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minutes, ${heheh.seconds} second\n\nPlease contact again after Online`, "*_© ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩_*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
+		  sendButMessage(from, `Hai ${pushname}, Sorry it seems at this time ${NamaOwner} currently Offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minutes, ${heheh.seconds} second\n\nPlease contact again after Online`, "*_© ī.ᴀᴍ/ꪶ͢𝐤𝐫𝐢𝐬𝐡𝐧𝐚𝐝𝐚𝐬_*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
 			}
 		}
 		if (mek.key.remoteJid.endsWith('@g.us') && offline) {
@@ -634,7 +634,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
                         if (isAfk(mek.key.remoteJid)) return
                         addafk(mek.key.remoteJid)
 						heheh = ms(Date.now() - waktuafk)
-			       sendButMessage(from, `Hai ${pushname}, Sorry it seems at this time ${NamaOwner} currently Offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minutes, ${heheh.seconds} second\n\nPlease contact again after Online`, "*_© ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩_*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
+			       sendButMessage(from, `Hai ${pushname}, Sorry it seems at this time ${NamaOwner} currently Offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minutes, ${heheh.seconds} second\n\nPlease contact again after Online`, "*_© ī.ᴀᴍ/ꪶ͢𝐤𝐫𝐢𝐬𝐡𝐧𝐚𝐝𝐚𝐬_*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
 					}
 				}
 						}
@@ -698,7 +698,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 	        denz.sendMessage(from, { displayname: nama, vcard: vcard}, MessageType.contact, {contextInfo: {"mentionedJid": ane}})
             }
 		const reply = (teks) => {
-			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩`,body:"",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/917994909899?text=Hi bro`}}})
+			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩`,body:"",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/919633687665?text=Hi bro`}}})
 		}
 		const reply2 = (teks) => {
 			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true}})
@@ -996,7 +996,7 @@ fill =`𝙷𝚒 𝙱𝚛𝚘 ${pushname}, ${tampilUcapan}
 
 If the button doesnt appear, type .allmenu
 `
-menu =`ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩`
+menu =`ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'😱SHOW MENU'},type:1},
 {buttonId:`owner`,buttonText:{displayText:'😎OWNER'},type:1},
@@ -1044,7 +1044,7 @@ gambar = await getBuffer(randKey.result)
 ☯ 𝚃𝙸𝙼𝙴 : ${timeWit}  
 ☯ 𝙳𝙰𝚈 : ${week} ${weton}
 ☯ 𝙳𝙰𝚃𝙴 : ${calender}`
-sendButLocation(from, `${menu}`, "ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩", {jpegThumbnail:gambar,name:""}, [
+sendButLocation(from, `${menu}`, "ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩", {jpegThumbnail:gambar,name:""}, [
 {buttonId:`allmenu`,buttonText:{displayText:'😱SHOW MENU'},type:1},
 {buttonId:`owner`,buttonText:{displayText:'😎OWNER'},type:1},
 {buttonId:`script`,buttonText:{displayText:'📃SCRIPT'},type:1}
@@ -1065,7 +1065,7 @@ menu =`━━━━━━━━━━━━━━━━
 
                  ${tampilHari}
                  
-  ╔𒆜ᴄʀᴇᴀᴛᴏʀ : wa.me/+917994909899                                               
+  ╔𒆜ᴄʀᴇᴀᴛᴏʀ : wa.me/+919633687665                                               
   ║🖇️ᴄʜᴀʀɢᴇ : ${baterai.battery}%                                                                    
   ║🖇️sᴛᴀᴛᴜs :${publik ? 'ᴘᴜʙʟɪᴄ ɴᴏᴡ ʙʀᴏ 😫' : 'sᴇʟғ ɴᴏᴡ ʙʀᴏ🥺'}        
   ║🖇️ʜᴏᴜʀ : ${jmn}
@@ -1084,7 +1084,7 @@ menu =`━━━━━━━━━━━━━━━━
 ║༄ ${prefix}sᴘᴇᴇᴅ
 ╚༄ ${prefix}sᴇᴅ ʟʏғᴇ
  ╔༆
- ║ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ:https://instagram.com/xy_lxx_.?utm_medium=copy_link
+ ║ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ : kannanbro_f_f
  ╚༄
 ╔✘*ᴛʀʏ ᴀɴʏ ᴛʜɪɴɢ✘
 ║༊ ${prefix}ᴏᴡɴᴇʀᴍᴇɴᴜ
@@ -1096,21 +1096,21 @@ menu =`━━━━━━━━━━━━━━━━
 ║༊ ${prefix}ᴏᴛʜᴇʀᴍᴇɴᴜ
 ╚✘ʙʀᴏ ᴅᴏɴᴛ ғᴏʟʟᴏᴡ ɢɪʀʟs✘
 
-༆ᴀᴅɪᴛʜʜᴀʀɪ / ᴀɴᴇᴇs༄
+༆𝐊𝐑𝐈𝐒𝐇𝐍𝐀𝐃𝐀𝐒༄
 ʟᴏᴠᴇ ʏᴏᴜ ᴀʟʟ!`
-sendButLocation(from, `${menu}`, "ꪶᴀᴍᴇᴇɴꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`about`,buttonText:{displayText:'ᴀʙᴏᴜᴛ'},type:1},{buttonId:`donate`,buttonText:{displayText:'ᴅᴏɴᴀᴛᴇ'},type:1}], {contextInfo: { mentionedJid: [otod]}})
+sendButLocation(from, `${menu}`, "ꪶᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`about`,buttonText:{displayText:'ᴀʙᴏᴜᴛ'},type:1},{buttonId:`donate`,buttonText:{displayText:'ᴅᴏɴᴀᴛᴇ'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 break
 case 'menu':
 let pi=denz["prepareMessageFromContent"](from,{
 "listMessage":{
-"title":"ʜɪ ʙʀᴏ ᴛʜɪs ɪs ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩ ᴍᴇɴᴜ","description":`${""}
+"title":"ʜɪ ʙʀᴏ ᴛʜɪs ɪs ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩ ᴍᴇɴᴜ","description":`${""}
      ʜɪ ʙʀᴏ  ${pushname}     
-╔༆ᴄʀᴇᴀᴛᴏʀ⟼ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩
+╔༆ᴄʀᴇᴀᴛᴏʀ⟼ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩
 ║༄ᴠᴇʀsɪᴏɴ⟼3.0
-║༄ʙᴏᴛɴᴀᴍᴇ⟼ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩
+║༄ʙᴏᴛɴᴀᴍᴇ⟼ī.ᴀᴍ/ꪶ͢﻿𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩﻿
 ║༄ᴘʀᴇғɪx⟼(ᴍᴜʟᴛɪ ᴘʀᴇғɪx)
 ║༄sᴛᴀᴛᴜs⟼ ${publik ? 'ᴘᴜʙʟɪᴄ ɴᴏᴡ' : 'sᴇʟғ ɴᴏᴡ'} 
-╚༄ᴏᴡɴᴇʀ⟼ @917994909899             
+╚༄ᴏᴡɴᴇʀ⟼ @919633687665             
 ${tampilHari}
 ${" "}
    ʜɪ ʙʀᴏ ${pushname}   ᴅᴏɴᴛ ᴄʟɪᴄᴋ ᴍᴇɴᴜ
@@ -1266,14 +1266,14 @@ break
 	case 'donate':
 	gambar = fs.readFileSync('./denz.jpg')
 	teksnya = `╭───────────────𒆜
- | *ᴅᴏɴᴀᴛᴇ ꪶ͢ᴀᴍᴇᴇɴ-sᴇʀꫂ⁩ 🥂*
+ | *ᴅᴏɴᴀᴛᴇ ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩ 🥂*
 ╰───────────────𒈒
 ╭───────────────𒆜
  | ᴀɴᴛʜᴀᴅᴀ ᴅᴏɴᴀᴛᴇ ᴄʜᴇʏᴀɴɴᴏ ?
  | 𒆜┤*ᴘᴀʏᴛᴍ*
- | 𒆜┤*917994909899*
+ | 𒆜┤*919633687665*
  | 𒆜┤*ɢᴏᴏɢʟᴇ ᴘᴀʏ*
- | 𒆜┤*917994909899*
+ | 𒆜┤*919633687665*
 ╰───────────────𒈒`
 teks =
 `ᴀɴᴛʜᴀᴅᴀ ғᴇᴀʀ ᴀʏᴏ ɴᴇᴇʏ 🥂`
@@ -1284,24 +1284,20 @@ but = [
         sendButLocation(from, teksnya, teks, gambar, but)
 break		
 	case 'credit':
-   dtod = '917356378949'
-   dtod1 = '919946470485'
-   dtod2 = '6587253226'
-   dtod3 = '917560810451'
+   dtod = '919633687665'
+   dtod1 = '919633687665'
+   dtod2 = '919633687665'
+   dtod3 = '919633687665'
    dtod4 ='0'
    var yez = `
-╭───𒆜 𝑪𝑹𝑬𝑨𝑻𝑶𝑹𝑺
+╭───𒆜 𝑪𝑹𝑬𝑨𝑻𝑶𝑹
 │🥂 wa.me/${dtod.split('@')[0]}
-│🥂 wa.me/917994909899
-│🥂 wa.me/919946470485
+│🥂 wa.me/919633687665
 ╰───────────────𒈒
- ꪶ͢ᴘᴀᴜʟᴡᴀʟᴋᴇʀꫂ⁩💝
- 
- ꪶ͢ᴊɪɴɴsᴇʀꫂ💝
- 
- ꪶ͢ᴀᴍᴇᴇɴꫂ⁩💝
+
+ ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩💝
  `
-     credit = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 8888888, "message": `${yez}`, "footerText": "©ī.ᴀᴍ/ᴀᴍᴇᴇɴꫂ⁩", "thumbnail": fs.readFileSync('./denz.jpg'), "surface": 'CATALOG'}}, {quoted: mek})
+     credit = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 8888888, "message": `${yez}`, "footerText": "©ī.ᴀᴍ/ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩", "thumbnail": fs.readFileSync('./denz.jpg'), "surface": 'CATALOG'}}, {quoted: mek})
             denz.relayWAMessage(credit)
         break
 	case 'about':
@@ -1309,12 +1305,12 @@ denz.sendMessage(from, `*ʜɪ ʙʀᴏ ${pushname}*
 
 ┏━━𒆜 *ɪɴғᴏ*
 ┃𒈒 *ɴᴀᴍᴇ ᴜsᴇʀ* : ${pushname}
-┃𒈒 *ɴᴀᴍᴇ ʙᴏᴛ* : ꪶ͢𝑇𝑌𝐶𝑂𝑂𝑁ꫂ⁩
-┃𒈒 *ɴᴀᴍᴇ ᴏᴡɴᴇʀ* : ꪶ͢ᴀᴍᴇᴇɴꫂ⁩
-┃𒈒 *ᴄʀᴇᴀᴛᴏʀ* : @917994909899
+┃𒈒 *ɴᴀᴍᴇ ʙᴏᴛ* : ꪶ͢ᴋʀɪᴢꫂ⁩
+┃𒈒 *ɴᴀᴍᴇ ᴏᴡɴᴇʀ* : ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩
+┃𒈒 *ᴄʀᴇᴀᴛᴏʀ* : @919633687665
 ┃𒈒 *sᴘᴇᴇᴅ* : 00065
 ┗━━𒆜
-*ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ ᴀɴɴ ᴍᴡᴏɴᴇ*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "ꪶ͢𝐴𝑀𝐸𝐸𝑁ꫂ⁩",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg')}}})
+*ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ ᴀɴᴜ ᴠʀᴏ*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "ꪶ͢𝐴𝑀𝐸𝐸𝑁ꫂ⁩",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg')}}})
 break		
 //Now
 case 'nuliskiri':
@@ -1347,7 +1343,7 @@ denz.sendMessage(from, anu, image, { quoted: mek, thumbnail: fs.readFileSync('./
 break
 //My Api
        case 'maker2d2': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/maker2?text=${makell}&apikey=${YuzApi}`)
@@ -1355,7 +1351,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 		case 'maker2d3': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/maker3?text=${makell}&apikey=${YuzApi}`)
@@ -1363,7 +1359,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 		case 'maker2d4': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/maker4?text=${makell}&apikey=${YuzApi}`)
@@ -1371,7 +1367,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'maker3d': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = body.slice(8)
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/maker3d?text=${makell}&apikey=${YuzApi}`)
@@ -1379,7 +1375,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'maker3d2': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/maker3d/no2?text=${makell}&apikey=${YuzApi}`)
@@ -1387,7 +1383,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'maker3d3': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/maker3d/no3?text=${makell}&apikey=${YuzApi}`)
@@ -1395,7 +1391,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'maker3d4': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/maker3d/no4?text=${makell}&apikey=${YuzApi}`)
@@ -1403,7 +1399,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'transformer': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/maker/special/transformer?text=${makell}&apikey=${YuzApi}`)
@@ -1411,7 +1407,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'googletxt':
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽|𝚂𝙴𝚁|𝙱𝙾𝚃`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ|𝚂𝙴𝚁|𝙱𝙾𝚃`)
 					makell = args.join(" ")
 					ll1 = makell.split("|")[0];
 					ll2 = makell.split("|")[1];
@@ -1422,7 +1418,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'battlefield': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽|𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ|𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					ll1 = makell.split("|")[0];
 					ll2 = makell.split("|")[1];
@@ -1432,7 +1428,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'coffeecup': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/senja?text=${makell}&theme=coffee-cup&apikey=${YuzApi}`)
@@ -1440,7 +1436,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'coffeecup2': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/senja?text=${makell}&theme=coffee-cup2&apikey=${YuzApi}`)
@@ -1448,7 +1444,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'neon': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/metallic?text=${makell}&theme=neon&apikey=${YuzApi}`)
@@ -1456,7 +1452,7 @@ break
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 case 'glow': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/metallic?text=${makell}&theme=glow&apikey=${YuzApi}`)
@@ -1464,7 +1460,7 @@ case 'glow':
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'summer': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/alam?text=${makell}&theme=summer&apikey=${YuzApi}`)
@@ -1472,7 +1468,7 @@ case 'glow':
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'flower': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/alam?text=${makell}&theme=flower&apikey=${YuzApi}`)
@@ -1480,7 +1476,7 @@ case 'glow':
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'burn': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/random?text=${makell}&theme=text-burn&apikey=${YuzApi}`)
@@ -1488,7 +1484,7 @@ case 'glow':
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'quote': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/random?text=${makell}&theme=art-quote&apikey=${YuzApi}`)
@@ -1496,7 +1492,7 @@ case 'glow':
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'wooden': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/roses?text=${makell}&theme=wooden-boarch&apikey=${YuzApi}`)
@@ -1504,7 +1500,7 @@ case 'glow':
 					denz.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./denz.jpg')})
 					break
 			case 'golden': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} ᴋʀɪᴢ 𝚂𝙴𝚁`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-yuzzu.herokuapp.com/api/textmaker/roses?text=${makell}&theme=golden&apikey=${YuzApi}`)
@@ -1521,7 +1517,7 @@ mhan = await denz.prepareMessage(from, buff, image, {thumbnail: buff})
 const buttonMessagessss = {
 imageMessage: mhan.message.imageMessage,
 contentText: `𝙱𝚘𝚜𝚜`,
-footerText: '*_©ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴꫂ⁩_*',
+footerText: '*_©ī.ᴀᴍ/ꪶ͢𝐤𝐫𝐢𝐬𝐡𝐧𝐚𝐝𝐚𝐬_*',
 buttons: gbutsan,
 headerType: 4
 }
@@ -1604,7 +1600,7 @@ for (let i of ownerNumber) {
 const vname = denz.contacts[i] != undefined ? denz.contacts[i].vname || denz.contacts[i].notify : undefined
 ini_list.push({
 "displayName": `Developer ${NamaBot}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;AmeenSer;;;\nFN:${vname ? `${vname}` : `${denz.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:ɪɴᴅɪᴀ\nEND:VCARD`
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;KRIZ Ser;;;\nFN:${vname ? `${vname}` : `${denz.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:ɪɴᴅɪᴀ\nEND:VCARD`
 })
 }
 denz.sendMessage(from, {
@@ -1692,12 +1688,12 @@ break
 		case 'sc':
 		case 'sourcecode':
 		anu =`╭─𒆜 sᴄʀɪᴘᴛ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
-│✘ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ ᴀɴɴ ᴍᴡᴏɴᴇ 🙂
+│✘ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ ᴀɴᴜ ᴠʀᴏ 🙂
 └──────😫sᴇᴅ ʟʏғᴇ😫──────𒆜`
 const buttons = [{buttonId: `menu`, buttonText: {displayText: 'BACK➡️'}, type: 1},{buttonId: `owner`, buttonText: {displayText: 'OWNER👤'}, type: 1}]
 const buttonMessage = {
     contentText: `${anu}`,
-    footerText: '*_©ī.ᴀᴍ/ꪶ͢ᴀᴍᴇᴇɴ_*',
+    footerText: '*_©ī.ᴀᴍ/ꪶ͢𝐤𝐫𝐢𝐬𝐡𝐧𝐚𝐝𝐚𝐬_*',
     buttons: buttons,
     headerType: 1
 }
@@ -1713,7 +1709,7 @@ break
 			 res = await denz.prepareMessageFromContent(from,{
 "templateMessage": {
 						"hydratedTemplate": {
-							"hydratedContentText": `Hi ${pushname} 👋,\n\nꪶ𝑷𝑨𝑼𝑳 ⇥𝑾𝑨𝑳𝑲𝑬𝑹ꫂ`,
+							"hydratedContentText": `Hi ${pushname} 👋,\n\nꪶ 𝑲𝑹𝑰𝒁⇥𝑺𝑬𝑹ꫂ⁩`,
 							"hydratedFooterText": `${NamaBot}`,
 							"hydratedButtons": [
 								{
@@ -1760,7 +1756,7 @@ case 'debug2':
     ]
   },
   "hydratedTemplate": {
-    "hydratedContentText": `Hi ${pushname} 👋,\n\nꪶ𝑷𝑨𝑼𝑳 ⇥𝑾𝑨𝑳𝑲𝑬𝑹ꫂ`,
+    "hydratedContentText": `Hi ${pushname} 👋,\n\nꪶ 𝑲𝑹𝑰𝒁⇥𝑺𝑬𝑹ꫂ⁩`,
     "hydratedFooterText": `${NamaBot}`,
     "hydratedButtons": [
       {
@@ -3627,7 +3623,7 @@ break
 				case 'return':
 				if (!isOwner) return reply(mess.only.ownerB)
 					return denz.sendMessage(from, JSON.stringify(eval(body.slice(8))), text, {quoted: mek})
-					if (err) return denz.sendMessage(from, `root @Ameen-Ser:~ ${err}`, text, { quoted: mek })
+					if (err) return denz.sendMessage(from, `root @KRIZ -Ser:~ ${err}`, text, { quoted: mek })
                  break
                  case 'toimg':
 				case 'tomedia':
@@ -3703,7 +3699,7 @@ break
 					vien.push(`${nm}`)
 					fs.writeFileSync(`./media/vn/${nm}.mp3`, delb)
 					fs.writeFileSync('./database/vien.json', JSON.stringify(vien))
-					denz.sendMessage(from, `𝙷𝙴𝙷𝙴 𝙱𝙶𝙼 𝙰𝙳𝙳𝙴𝙳, 𝙰𝙼𝙴𝙴𝙽 𝚂𝙴𝚁 🌚🎗️`, MessageType.text, { quoted: mek })
+					denz.sendMessage(from, `𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙸𝚂 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙺𝚁𝙸𝚂𝙷𝙽𝙰𝙳𝙰𝚂 🌚🎗️`, MessageType.text, { quoted: mek })
 					break
 					case 'delvn':
 					if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)
@@ -4016,7 +4012,7 @@ Giliran = @${tty.player1.split('@')[0]}`
             if (!e.includes("Cannot set property 'mtype' of undefined")) {
             if (!e.includes("jid is not defined")) {
      console.log(color('|ERR|', 'red'), color(e, 'cyan'))
-     denz.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `─────「 *ALERT-ERROR* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Ameen ser",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/917994909899?text=Hi Bro"}}})
+     denz.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `─────「 *ALERT-ERROR* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer KRIZ  ser",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/919633687665?text=Hi Bro"}}})
 	}
     }
     }
