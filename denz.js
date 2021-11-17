@@ -353,25 +353,25 @@ try {
                 case 1: jamss = "sʟᴇᴇᴘ ʙʀᴏ😣"; break;
                 case 2: jamss = "sʟᴇᴇᴘ ʙʀᴏ😣"; break;
                 case 3: jamss = "sʟᴇᴇᴘ ʙʀᴏ😣"; break;
-                case 4: jamss = "ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
-                case 5: jamss = "ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
+                case 4: jamss = "ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
+                case 5: jamss = "ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
                 case 6: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🥺"; break;
                 case 7: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🥺"; break;
                 case 8: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🥺"; break;
                 case 9: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🥺"; break;
                 case 10: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🥺"; break;
                 case 11: jamss = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ😢"; break;
-                case 12: jamss = "ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩"; break;
+                case 12: jamss = "ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩"; break;
                 case 13: jamss = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ😢"; break;
                 case 14: jamss = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ😥"; break;
-                case 15: jamss = "ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
+                case 15: jamss = "ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
                 case 16: jamss = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ😖"; break;
                 case 17: jamss = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ😫"; break;
-                case 18: jamss = "‍ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
-                case 19: jamss = "ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
+                case 18: jamss = "‍ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
+                case 19: jamss = "ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
                 case 20: jamss = "ɢᴏᴏᴅ ɴɪɢʜᴛ🥺"; break;
                 case 21: jamss = "ɢᴏᴏᴅ ɴɪɢʜᴛ😞"; break;
-                case 22: jamss = "ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
+                case 22: jamss = "ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ💔⁩"; break;
                 case 23: jamss = "ᴍᴀᴛʜɪ ᴘᴏʏɪ ᴜʀᴀɢ💔"; break;
             }
             var tampilHari = "" + waktoo;
@@ -867,19 +867,19 @@ reply(String(e))
 			for (let anji of setik){
 				if (budy === anji){
 					result = fs.readFileSync(`./media/sticker/${anji}.webp`)
-					denz.sendMessage(from, result, sticker, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ᴛʏᴄᴏᴏɴꫂ ⁩✘ ➫➬➭ ${anji}`, orderTitle: `𒈒 ī.ᴀᴍ/ᴛʏᴄᴏᴏɴꫂ⁩ 𒈒➫➬➭ ${anji}`, sellerJid: '0@s.whatsapp.net'}}}})
+					denz.sendMessage(from, result, sticker, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/κяιzꫂ ⁩✘ ➫➬➭ ${anji}`, orderTitle: `𒈒 ī.ᴀᴍ/κяιzꫂ⁩ 𒈒➫➬➭ ${anji}`, sellerJid: '0@s.whatsapp.net'}}}})
 					}
 			}
 			for (let anju of vien){
 				if (budy === anju){
 					result = fs.readFileSync(`./media/vn/${anju}.mp3`)
-					denz.sendMessage(from, result, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 77777, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ᴛʏᴄᴏᴏɴꫂ⁩ ✘ ➫➬➭ ${anju}`, orderTitle: `𒈒 ī.ᴀᴍ/ᴛʏᴄᴏᴏɴꫂ⁩ 𒈒➫➬➭  ${anju}`, sellerJid: '0@s.whatsapp.net'}}}, mimetype: 'audio/mp4', duration: 359996400, ptt: true})
+					denz.sendMessage(from, result, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 77777, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/κяιzꫂ⁩ ✘ ➫➬➭ ${anju}`, orderTitle: `𒈒 ī.ᴀᴍ/κяιzꫂ⁩ 𒈒➫➬➭  ${anju}`, sellerJid: '0@s.whatsapp.net'}}}, mimetype: 'audio/mp4', duration: 359996400, ptt: true})
 					}
 			}
 			for (let anjh of imagi){
 				if (budy === anjh){
 					result = fs.readFileSync(`./media/image/${anjh}.jpg`)
-					denz.sendMessage(from, result, image, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ ✘ ➫➬➭ ${anjh}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢𝐀𝐌𝐄𝐄𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ 𒈒➫➬➭ ${anjh}`, sellerJid: '0@s.whatsapp.net'}}}})
+					denz.sendMessage(from, result, image, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ ✘ ➫➬➭ ${anjh}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢𝐊𝐑𝐈𝐙-𝐒𝐄𝐑-𝐁𝐎𝐓ꫂ⁩ 𒈒➫➬➭ ${anjh}`, sellerJid: '0@s.whatsapp.net'}}}})
 					}
 			}
 			for (var i = 0; i < commandsDB.length ; i++) {
