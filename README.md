@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.imgur.com/p044747.jpeg" alt="TYCOON" width="300" />
+<img src="https://telegra.ph/file/ecdaa90c60e7f86ec0dc7.jpg" alt="KRIZ" width="300" />
 
-# TYCOON SER
+# KRIZ SER
 
 >
 >
@@ -11,6 +11,13 @@
   <a href="https://instagram.com/xy_lxx_."><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/917994909899"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
+
+## SIMPLE METHOD
+    
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SERV2/)
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SERV2-Qr-code?v=1)
 
 ## HOW TO INSTALL ON TERMUX
 ```bash
@@ -40,9 +47,9 @@
 
 # THANKS TO
 * [`Baileys`](https://github.com/adiwajshing/Baileys) 
-* [`AMEEN SER`](https://github.com/Dilmano) 
+* [`KRIZ SER`](https://github.com/KANNANSIR) 
 
 
-*[`DEPLOY TO HEROKU`](https://heroku.com/deploy?template=https://github.com/Ameen-SER/TYCOON-SER/)
+*[`DEPLOY TO HEROKU`](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SERV2/)
   
   
