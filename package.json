@@ -1,5 +1,5 @@
 {
-  "name": "ameen-ser",
+  "name": "kriz-ser",
   "version": "0.0.1",
   "description": "synzx",
   "main": "node index",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "ameen-ser",
+  "author": "kriz-ser",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
