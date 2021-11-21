@@ -17,7 +17,7 @@
 ## Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SERV2/)
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SERV2-Qr-code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SERV2-Qr-code?v=)
 
 ## HOW TO INSTALL ON TERMUX
 ```bash
