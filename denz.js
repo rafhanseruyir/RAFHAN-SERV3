@@ -698,7 +698,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 	        denz.sendMessage(from, { displayname: nama, vcard: vcard}, MessageType.contact, {contextInfo: {"mentionedJid": ane}})
             }
 		const reply = (teks) => {
-			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `ī.ᴀᴍ/ꪶ͢𝑲𝑹𝑰𝑺𝑯𝑵𝑨𝑫𝑨𝑺ꫂ⁩`,body:"",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/918590508376?text=Hi bro`}}})
+			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `ī.ᴀᴍ/ꪶ͢𝑹𝑨𝑭𝑯𝑨𝑵 𝑺𝑬𝑹ꫂ⁩`,body:"",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/918590508376?text=Hi bro`}}})
 		}
 		const reply2 = (teks) => {
 			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true}})
@@ -992,7 +992,7 @@ fill =`𝙷𝚒 𝙱𝚛𝚘 ${pushname}, ${tampilUcapan}
 
 If the button doesnt appear, type .allmenu
 `
-menu =`ī.ᴀᴍ/ꪶ͢𝑲𝑹𝑰𝑺𝑯𝑵𝑨𝑫𝑨𝑺ꫂ⁩`
+menu =`ī.ᴀᴍ/ꪶ͢𝑹𝑨𝑭𝑯𝑨𝑵 𝑺𝑬𝑹ꫂ⁩`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'😱SHOW MENU'},type:1},
 {buttonId:`owner`,buttonText:{displayText:'😎OWNER'},type:1},
@@ -3834,7 +3834,7 @@ break
 					imagi.push(`${nm}`)
 					fs.writeFileSync(`./media/image/${nm}.jpg`, delb)
 					fs.writeFileSync('./database/imagi.json', JSON.stringify(imagi))
-					denz.sendMessage(from, `ᴀᴅᴅᴇᴅ ᴛᴏ ɪᴍᴀɢᴇ ᴅᴀᴛᴀʙᴀsᴇ ʙʏ ī.ᴀᴍ/ꪶ͢𝑲𝑹𝑰𝑺𝑯𝑵𝑨𝑫𝑨𝑺ꫂ⁩`, MessageType.text, { quoted: mek })
+					denz.sendMessage(from, `ᴀᴅᴅᴇᴅ ᴛᴏ ɪᴍᴀɢᴇ ᴅᴀᴛᴀʙᴀsᴇ ʙʏ ī.ᴀᴍ/ꪶ͢𝑹𝑨𝑭𝑯𝑨𝑵 𝑺𝑬𝑹ꫂ⁩`, MessageType.text, { quoted: mek })
 					break
 				case 'delimage':
 				if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)
