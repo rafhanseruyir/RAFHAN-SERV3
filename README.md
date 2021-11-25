@@ -15,7 +15,7 @@
 ## SIMPLE METHOD
     
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rafhanseruyir/KRIZ-SERV2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rafhanseruyir/RAFHAN-SERV2/)
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
 
