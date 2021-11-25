@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://telegra.ph/file/ecdaa90c60e7f86ec0dc7.jpg" alt="KRIZ" width="300" />
 
-# KRIZ SER
+
+# RAFHAN SER
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://instagram.com/xy_lxx_."><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/919633687665"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/47__Rider____kid."><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/919745310120"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## SIMPLE METHOD
@@ -17,13 +17,13 @@
 ## Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rafhanseruyir/RAFHAN-SERV2/)
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@rafhanseruyir/RAFHAN-SERV2-Qr-code?v=1)
 
 ## HOW TO INSTALL ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/KANNANSIR/KRIZ-SERV2
-> cd KRIZ-SERV2
+> git clone https://github.com/rafhanseruyir/RAFHAN-SERV2
+> cd RAFHAN-SERV2
 > npm i -g npm@6.14.14
 > npm install @adiwajshing/bailyes
 > npm install terminal-kit
@@ -32,8 +32,8 @@
 ```
 ## HOW TO INSTALL ON PC
 ```bash
-> git clone https://github.com/KANNANSIR/KRIZ-SERV2
-> cd KRIZ-SERV2
+> git clone https://github.com/rafhanseruyir/RAFHAN-SERV2
+> cd RAFHAN-SERV2
 > npm install terminal-kit
 > npm i
 > npm start/node index.js
@@ -47,9 +47,9 @@
 
 # THANKS TO
 * [`Baileys`](https://github.com/adiwajshing/Baileys) 
-* [`KRIZ SER`](https://github.com/KANNANSIR) 
+* [`RAFHAN SER`](https://github.com/KANNANSIR) 
 
 
-*[`DEPLOY TO HEROKU`](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SERV2/)
+*[`DEPLOY TO HEROKU`](https://heroku.com/deploy?template=https://github.com/rafhanseruyir/RAFHAN-SERV2/)
   
   
