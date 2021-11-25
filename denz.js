@@ -257,7 +257,7 @@ try {
 			only: {
 				group: 'ᴏɴʟʏ ᴡɪᴛʜ ɪɴ ɢʀᴏᴜᴘ ᴅᴏɴᴛ ᴛʀʏ🙂',
 				ownerG: 'ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ ᴅᴏɴᴛ ᴛʀʏ🙂',
-				ownerB: 'ᴏɴʟʏ ғᴏʀ⁩ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩💝',
+				ownerB: 'ᴏɴʟʏ ғᴏʀ⁩RAFHAN SER💝',
 				admin: 'ᴏɴʟʏ ғᴏʀ ᴀᴅᴍɪɴ🙂',
 				Badmin: 'ᴍᴀᴋᴇ ʙᴏᴛ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ😣'
 			}
@@ -290,7 +290,7 @@ try {
 		}
 		if (antibot === true) return
 		const katalog = (teks) => {
-             res = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 777888, "message": teks, "footerText": "*_© ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩_*", "thumbnail": ofrply, "surface": 'CATALOG' }}, {quoted:ftrol})
+             res = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 777888, "message": teks, "footerText": "*_© ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩_*", "thumbnail": ofrply, "surface": 'CATALOG' }}, {quoted:ftrol})
              denz.relayWAMessage(res)
         }
         const grupinv = (teks) => {
@@ -323,55 +323,55 @@ try {
                         var waktoo = ase.getHours();
                         var jamss = ase.getHours();
                         switch(waktoo){
-               case 0: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🙂"; break;
-                case 1: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🙂"; break;
-                case 2: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🙂"; break;
-                case 3: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🙂"; break;
+               case 0: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🙂"; break;
+                case 1: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ - ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🙂"; break;
+                case 2: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🙂"; break;
+                case 3: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🙂"; break;
                 case 4: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😊"; break;
                 case 5: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ😊"; break;
-                case 6: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩😊"; break;
-                case 7: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🌚"; break;
-                case 8: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩😊⁩"; break;
-                case 9: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🤗⁩"; break;
-                case 10: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩😚⁩"; break;
-                case 11: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🤠⁩"; break;
-                case 12: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩😵"; break;
-                case 13: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🌝"; break;
-                case 14: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🙃⁩"; break;
-                case 15: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🤭"; break;
-                case 16: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩😉"; break;
-                case 17: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩😌"; break;
-                case 18: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩😉⁩"; break;
+                case 6: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩😊"; break;
+                case 7: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🌚"; break;
+                case 8: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩😊⁩"; break;
+                case 9: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🤗⁩"; break;
+                case 10: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩😚⁩"; break;
+                case 11: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🤠⁩"; break;
+                case 12: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩😵"; break;
+                case 13: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🌝"; break;
+                case 14: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🙃⁩"; break;
+                case 15: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🤭"; break;
+                case 16: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩😉"; break;
+                case 17: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n-ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩😌"; break;
+                case 18: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩😉⁩"; break;
                 case 19: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ🌝"; break;
                 case 20: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ🌝"; break;
                 case 21: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ🌝"; break;
-                case 22: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🌚⁩"; break;
-                case 23: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🌚⁩"; break;
+                case 22: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🌚⁩"; break;
+                case 23: waktoo = "ᴀʏɪsʜ ᴀʀᴀ ᴀᴛʜᴜ\n- ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🌚⁩"; break;
             }
             switch(jamss){
                 case 0: jamss = "sʟᴇᴇᴘ ʙʀᴏ🌝"; break;
                 case 1: jamss = "sʟᴇᴇᴘ ʙʀᴏ🌝"; break;
                 case 2: jamss = "sʟᴇᴇᴘ ʙʀᴏ🌝"; break;
                 case 3: jamss = "sʟᴇᴇᴘ ʙʀᴏ🌝"; break;
-                case 4: jamss = "ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🌚⁩"; break;
-                case 5: jamss = "ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🌚⁩"; break;
+                case 4: jamss = "ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🌚⁩"; break;
+                case 5: jamss = "ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🌚⁩"; break;
                 case 6: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🌚"; break;
                 case 7: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🌚"; break;
                 case 8: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🌚"; break;
                 case 9: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🌚"; break;
                 case 10: jamss = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ🌝"; break;
                 case 11: jamss = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ🌚"; break;
-                case 12: jamss = "ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩⁩"; break;
+                case 12: jamss = "ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩⁩"; break;
                 case 13: jamss = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ🌝"; break;
                 case 14: jamss = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ🌝"; break;
-                case 15: jamss = "ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🙂⁩"; break;
+                case 15: jamss = "ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🙂⁩"; break;
                 case 16: jamss = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ🤠"; break;
                 case 17: jamss = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ🌝"; break;
-                case 18: jamss = "‍ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩👻"; break;
-                case 19: jamss = "ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🌚⁩"; break;
+                case 18: jamss = "‍ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩👻"; break;
+                case 19: jamss = "ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🌚⁩"; break;
                 case 20: jamss = "ɢᴏᴏᴅ ɴɪɢʜᴛ🥺"; break;
                 case 21: jamss = "ɢᴏᴏᴅ ɴɪɢʜᴛ😞"; break;
-                case 22: jamss = "ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩🙃⁩"; break;
+                case 22: jamss = "ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩🙃⁩"; break;
                 case 23: jamss = "ᴍᴀᴛʜɪ ᴘᴏʏɪ ᴜʀᴀɢ🤗"; break;
             }
             var tampilHari = "" + waktoo;
@@ -621,7 +621,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
             if (isAfk(mek.key.remoteJid)) return
             addafk(mek.key.remoteJid)
 			heheh = ms(Date.now() - waktuafk)
-		  sendButMessage(from, `Hai ${pushname}, Sorry it seems at this time ${NamaOwner} currently Offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minutes, ${heheh.seconds} second\n\nPlease contact again after Online`, "*_© ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩_*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
+		  sendButMessage(from, `Hai ${pushname}, Sorry it seems at this time ${NamaOwner} currently Offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minutes, ${heheh.seconds} second\n\nPlease contact again after Online`, "*_© ꪶ͢RAFHAN SERꫂ⁩_*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
 			}
 		}
 		if (mek.key.remoteJid.endsWith('@g.us') && offline) {
@@ -634,7 +634,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
                         if (isAfk(mek.key.remoteJid)) return
                         addafk(mek.key.remoteJid)
 						heheh = ms(Date.now() - waktuafk)
-			       sendButMessage(from, `Hai ${pushname}, Sorry it seems at this time ${NamaOwner} currently Offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minutes, ${heheh.seconds} second\n\nPlease contact again after Online`, "*_© ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩_*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
+			       sendButMessage(from, `Hai ${pushname}, Sorry it seems at this time ${NamaOwner} currently Offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minutes, ${heheh.seconds} second\n\nPlease contact again after Online`, "*_© ꪶ͢RAFHAN SERꫂ⁩_*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
 					}
 				}
 						}
@@ -863,19 +863,19 @@ reply(String(e))
 			for (let anji of setik){
 				if (budy === anji){
 					result = fs.readFileSync(`./media/sticker/${anji}.webp`)
-					denz.sendMessage(from, result, sticker, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩ ⁩✘ ➫➬➭ ${anji}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩⁩ 𒈒➫➬➭ ${anji}`, sellerJid: '0@s.whatsapp.net'}}}})
+					denz.sendMessage(from, result, sticker, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩ ⁩✘ ➫➬➭ ${anji}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩⁩ 𒈒➫➬➭ ${anji}`, sellerJid: '0@s.whatsapp.net'}}}})
 					}
 			}
 			for (let anju of vien){
 				if (budy === anju){
 					result = fs.readFileSync(`./media/vn/${anju}.mp3`)
-					denz.sendMessage(from, result, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩⁩ ✘ ➫➬➭ ${anju}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩⁩ 𒈒➫➬➭  ${anju}`, sellerJid: '0@s.whatsapp.net'}}}, mimetype: 'audio/mp4', duration: 359996400, ptt: true})
+					denz.sendMessage(from, result, audio, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩⁩ ✘ ➫➬➭ ${anju}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩⁩ 𒈒➫➬➭  ${anju}`, sellerJid: '0@s.whatsapp.net'}}}, mimetype: 'audio/mp4', duration: 359996400, ptt: true})
 					}
 			}
 			for (let anjh of imagi){
 				if (budy === anjh){
 					result = fs.readFileSync(`./media/image/${anjh}.jpg`)
-					denz.sendMessage(from, result, image, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩⁩ ✘ ➫➬➭ ${anjh}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩⁩ 𒈒➫➬➭ ${anjh}`, sellerJid: '0@s.whatsapp.net'}}}})
+					denz.sendMessage(from, result, image, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 9999999, status: 200, thumbnail: fs.readFileSync('./denz.jpg'), surface: 200, message: `✘ ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩⁩ ✘ ➫➬➭ ${anjh}`, orderTitle: `𒈒 ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩⁩ 𒈒➫➬➭ ${anjh}`, sellerJid: '0@s.whatsapp.net'}}}})
 					}
 			}
 			for (var i = 0; i < commandsDB.length ; i++) {
@@ -1040,7 +1040,7 @@ gambar = await getBuffer(randKey.result)
 ☯ 𝚃𝙸𝙼𝙴 : ${timeWit}  
 ☯ 𝙳𝙰𝚈 : ${week} ${weton}
 ☯ 𝙳𝙰𝚃𝙴 : ${calender}`
-sendButLocation(from, `${menu}`, "ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩", {jpegThumbnail:gambar,name:""}, [
+sendButLocation(from, `${menu}`, "ꪶ͢RAFHAN SERꫂ⁩", {jpegThumbnail:gambar,name:""}, [
 {buttonId:`allmenu`,buttonText:{displayText:'😱SHOW MENU'},type:1},
 {buttonId:`owner`,buttonText:{displayText:'😎OWNER'},type:1},
 {buttonId:`script`,buttonText:{displayText:'📃SCRIPT'},type:1}
@@ -1097,9 +1097,9 @@ menu =`━━━━━━━━━━━━━━━━
 ║༊ ${prefix}ᴏᴛʜᴇʀᴍᴇɴᴜ
 ╚✘ʙʀᴏ ᴅᴏɴᴛ ғᴏʟʟᴏᴡ ɢɪʀʟs✘
 
-༆ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩/༄
+༆RAFHAN SER/༄
 ʟᴏᴠᴇ ʏᴏᴜ ᴀʟʟ!`
-sendButLocation(from, `${menu}`, "ꪶ͢ᴋʀɪᴢ ꜱᴇʀ ʙʏ ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`about`,buttonText:{displayText:'ᴀʙᴏᴜᴛ'},type:1},{buttonId:`donate`,buttonText:{displayText:'ᴅᴏɴᴀᴛᴇ'},type:1}], {contextInfo: { mentionedJid: [otod]}})
+sendButLocation(from, `${menu}`, "ꪶ͢RAFHAN SER ʙʏ RAFHAN SERꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`about`,buttonText:{displayText:'ᴀʙᴏᴜᴛ'},type:1},{buttonId:`donate`,buttonText:{displayText:'ᴅᴏɴᴀᴛᴇ'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 break
 case 'menu':
 case 'p':
@@ -1107,12 +1107,12 @@ let pi=denz["prepareMessageFromContent"](from,{
 "listMessage":{
 "title":"ʜɪ ᴛʜɪs ɪs ᴍᴇɴᴜ","description":`${""}
 ʜɪ  ${pushname}     
-╔༆ᴄʀᴇᴀᴛᴏʀ⟼ī.ᴀᴍ/ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩
+╔༆ᴄʀᴇᴀᴛᴏʀ⟼RAFHAN SER
 ║༄ᴠᴇʀsɪᴏɴ⟼3.0
-║༄ʙᴏᴛɴᴀᴍᴇ⟼ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩
+║༄ʙᴏᴛɴᴀᴍᴇ⟼ꪶ͢Rafhan Serꫂ⁩
 ║༄ᴘʀᴇғɪx⟼(ᴍᴜʟᴛɪ ᴘʀᴇғɪx)
 ║༄sᴛᴀᴛᴜs⟼ ${publik ? 'ᴘᴜʙʟɪᴄ ɴᴏᴡ' : 'sᴇʟғ ɴᴏᴡ'} 
-╚༄ᴏᴡɴᴇʀ⟼ wa.me/919633687665      
+╚༄ᴏᴡɴᴇʀ⟼ wa.me/919745310120      
 ${tampilHari}
 ${" "}
    ʜɪ ʙʀᴏ ${pushname}   ᴅᴏɴᴛ ᴄʟɪᴄᴋ ᴍᴇɴᴜ
@@ -1300,20 +1300,20 @@ menu = `  ʜᴇʏ ᴜsᴇʀ @${sender.split("@")[0]}
      *╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝*
 
 *╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*»
-*│❖ Dᴇᴠᴇʟᴏᴘᴇʀ : ᴋʀɪꜱʜɴᴀᴅᴀꜱ*
+*│❖ Dᴇᴠᴇʟᴏᴘᴇʀ : RAFHAN SER*
 *│❖ Oᴡɴᴇʀ : ${NamaOwner}*
 *│❖ Bᴏᴛ ɴᴀᴍᴇ : ${NamaBot}*
 *│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ${publik ? 'public' : 'self'}*
 *│❖ Pʀᴇғɪx : ${multi ? 'Multi Prefix' : 'No Prefix'}*     
-*│❖ Cʀᴇᴅɪᴛs : ᴋʀɪꜱʜɴᴀᴅᴀꜱ*
+*│❖ Cʀᴇᴅɪᴛs : RAFHAN SER*
 *╰────────────────❋ཻུ۪۪⸙*
 *⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘*
          *${NamaBot}*
      
-*╭◪ ᴄᴏᴅᴅᴇᴅ ʙʏ ᴋʀɪꜱʜɴᴀᴅᴀꜱ*
+*╭◪ ᴄᴏᴅᴅᴇᴅ ʙʏ RAFHAN SER*
 *╰─────────────────❋ཻུ۪۪⸙*`
 katalog(menu)
-sendButLocation(from, `${menu}`, "ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`about`,buttonText:{displayText:'ᴀʙᴏᴜᴛ'},type:1},{buttonId:`donate`,buttonText:{displayText:'ᴅᴏɴᴀᴛᴇ'},type:1}], {contextInfo: { mentionedJid: [otod]}})
+sendButLocation(from, `${menu}`, "ꪶ͢RAFHAN SERꫂ⁩⁩", {jpegThumbnail:gambar,name:""}, [{buttonId:`about`,buttonText:{displayText:'ᴀʙᴏᴜᴛ'},type:1},{buttonId:`donate`,buttonText:{displayText:'ᴅᴏɴᴀᴛᴇ'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 		break
 //My Api
        case 'maker2d2': 
@@ -1491,7 +1491,7 @@ mhan = await denz.prepareMessage(from, buff, image, {thumbnail: buff})
 const buttonMessagessss = {
 imageMessage: mhan.message.imageMessage,
 contentText: `𝙱𝚘𝚜𝚜`,
-footerText: '*_©ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩_*',
+footerText: '*_©ꪶ͢RAFHAN SERꫂ⁩_*',
 buttons: gbutsan,
 headerType: 4
 }
@@ -1541,7 +1541,7 @@ case 'antidelete':
 const buttons = [{buttonId: 'on', buttonText: {displayText: '𝑶𝑵'}, type: 1},{buttonId: 'off', buttonText: {displayText: '𝑶𝑭𝑭'}, type: 1}]
 const buttonMessage = {
     contentText: `${anu}`,
-    footerText: '*_ꪶ͢ᴢᴇᴜs ʙʏ ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩_*',
+    footerText: '*_ꪶ͢ᴢᴇᴜs ʙʏ RAFHAN SERꫂ⁩_*',
     buttons: buttons,
     headerType: 1
 }
@@ -1696,20 +1696,20 @@ const buttonMessage = {
 await denz.sendMessage(from, buttonMessage, MessageType.buttonsMessage, {quoted: ftok})
 		break
 		case 'credit':
-   dtod = '919633687665'
-   dtod1 = '919633687665'
+   dtod = '919745310120'
+   dtod1 = '919745310120'
    dtod2 = ''
    dtod3 = ''
    dtod4 ='0'
    var yez = `
 ╭───𒆜 𝑪𝑹𝑬𝑨𝑻𝑶𝑹
 │🥂 wa.me/${dtod.split('@')[0]}
-│🥂 wa.me/919633687665
+│🥂 wa.me/919745310120
 ╰───────────────𒈒
- ꪶ͢ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩💝
+ RAFHAN SER💝
  
  `
-     credit = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 8888888, "message": `${yez}`, "footerText": "©ī.ᴀᴍ/ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩", "thumbnail": fs.readFileSync('./denz.jpg'), "surface": 'CATALOG'}}, {quoted: mek})
+     credit = denz.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 8888888, "message": `${yez}`, "footerText": "©ī.ᴀᴍ/ꪶ͢RAFHAN SERꫂ⁩", "thumbnail": fs.readFileSync('./denz.jpg'), "surface": 'CATALOG'}}, {quoted: mek})
             denz.relayWAMessage(credit)
         break
 case 'inibuatwelcome':
@@ -1722,7 +1722,7 @@ break
 			 res = await denz.prepareMessageFromContent(from,{
 "templateMessage": {
 						"hydratedTemplate": {
-							"hydratedContentText": `Hi ${pushname} 🥂,\n\nꪶ͢ᴢᴇᴜs ʙʏ ᴋʀɪꜱʜɴᴀᴅᴀꜱꫂ⁩`,
+							"hydratedContentText": `Hi ${pushname} 🥂,\n\nꪶ͢ᴢᴇᴜs ʙʏ RAFHAN SERꫂ⁩`,
 							"hydratedFooterText": `${NamaBot}`,
 							"hydratedButtons": [
 								{
@@ -1769,7 +1769,7 @@ case 'debug2':
     ]
   },
   "hydratedTemplate": {
-    "hydratedContentText": `Hi ${pushname} 🥂,\n\nꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩`,
+    "hydratedContentText": `Hi ${pushname} 🥂,\n\nꪶ͢RAFHAN SERꫂ⁩`,
     "hydratedFooterText": `${NamaBot}`,
     "hydratedButtons": [
       {
@@ -2634,7 +2634,7 @@ break
 buttonss = [{buttonId: `menu`, buttonText: {displayText: 'ᴍᴇɴᴜ🥂'}, type: 1},{buttonId: `credit`, buttonText: {displayText: 'ᴄʀᴇᴅɪᴛs💝'}, type: 1}]
 const btnbc = {
     contentText: `${body.slice(4)}`,
-    footerText: '*_ʙʀᴏᴀᴅᴄᴀsᴛ ʙʏ ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩_*',
+    footerText: '*_ʙʀᴏᴀᴅᴄᴀsᴛ ʙʏ ꪶ͢RAFHAN SERꫂ⁩_*',
     buttons: buttonss,
     headerType: 1
 }
@@ -2730,7 +2730,7 @@ if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)
                         break
 					case 'shutdown':
 					if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)
-				reply2('ʙʏᴇ ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩💔')
+				reply2('ʙʏᴇ ꪶ͢RAFHAN SERꫂ⁩💔')
 				await sleep(1000)
 				return denz.sendMessage(from, JSON.stringify(eval(process.exit())))
 				reply2('Erorr')
@@ -3876,9 +3876,9 @@ denz.sendMessage(from, `*ʜɪ ʙʀᴏ ${pushname}*
 
 ┏━━𒆜 *ɪɴғᴏ*
 ┃𒈒 *ɴᴀᴍᴇ ᴜsᴇʀ* : ${pushname}
-┃𒈒 *ɴᴀᴍᴇ ʙᴏᴛ* : ꪶ͢Ꮶʀɨʐ ֆɛʀꫂ⁩
-┃𒈒 *ɴᴀᴍᴇ ᴏᴡɴᴇʀ* : ꪶ͢к я ι ѕ н η α ∂ α ѕ ꫂ⁩
-┃𒈒 *ᴄʀᴇᴀᴛᴏʀ* : wa.me/919633687665
+┃𒈒 *ɴᴀᴍᴇ ʙᴏᴛ* : ꪶRafhan ֆɛʀꫂ⁩
+┃𒈒 *ɴᴀᴍᴇ ᴏᴡɴᴇʀ* : ꪶRafhan ⁩
+┃𒈒 *ᴄʀᴇᴀᴛᴏʀ* : wa.me/919745310120
 ┃𒈒 *sᴘᴇᴇᴅ* : 00065
 ┗━━𒆜
 *ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ ᴀɴɴ ᴍᴡᴏɴᴇ*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "ꪶ͢κяιz ѕєяꫂ⁩",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg')}}})
@@ -3886,7 +3886,7 @@ break
 case 'donate':
 	gambar = fs.readFileSync('./denz.jpg')
 	teksnya = `╭───────────────𒆜
- | *ᴅᴏɴᴀᴛᴇ ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩ 🥂*
+ | *ᴅᴏɴᴀᴛᴇ ꪶ͢Rafhan Serꫂ⁩ 🥂*
 ╰───────────────𒈒
 ╭───────────────𒆜
  | ᴀɴᴛʜᴀᴅᴀ ᴅᴏɴᴀᴛᴇ ᴄʜᴇʏᴀɴɴᴏ ?
@@ -4159,7 +4159,7 @@ Giliran = @${tty.player1.split('@')[0]}`
             if (!e.includes("Cannot set property 'mtype' of undefined")) {
             if (!e.includes("jid is not defined")) {
      console.log(color('|ERR|', 'red'), color(e, 'cyan'))
-     denz.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `─────「 *ᴇʀʀᴏʀ-ᴀʟᴇʀᴛ* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "ꪶ͢ᴋʀɪᴢ ꜱᴇʀꫂ⁩",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/919633687665?text=Hi Bro"}}})
+     denz.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `─────「 *ᴇʀʀᴏʀ-ᴀʟᴇʀᴛ* 」─────\n\n\`\`\`${e}\`\`\`\n\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "ꪶ͢RAFHAN SERꫂ⁩",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/919745310120?text=Hi Bro"}}})
 	}
     }
     }
