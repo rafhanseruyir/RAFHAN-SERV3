@@ -698,7 +698,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 	        denz.sendMessage(from, { displayname: nama, vcard: vcard}, MessageType.contact, {contextInfo: {"mentionedJid": ane}})
             }
 		const reply = (teks) => {
-			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `ī.ᴀᴍ/ꪶ͢𝑹𝑨𝑭𝑯𝑨𝑵 𝑺𝑬𝑹ꫂ⁩`,body:"",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/918590508376?text=Hi bro`}}})
+			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `ī.ᴀᴍ/ꪶ͢𝑹𝑨𝑭𝑯𝑨𝑵 𝑺𝑬𝑹ꫂ⁩`,body:"",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/919745310120?text=Hi bro`}}})
 		}
 		const reply2 = (teks) => {
 			denz.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true}})
@@ -1605,7 +1605,7 @@ menu = `
 
 4. 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙰𝙼 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁
 `
-sendButMessage(from, menu, `KriZ SeR`, [
+sendButMessage(from, menu, `ʀᴀғʜᴀɴ sᴇʀ`, [
           {
             buttonId: `menu`,
             buttonText: {
@@ -1684,12 +1684,13 @@ break
 		case 'sc':
 		case 'sourcecode':
 		anu =`╭─𒆜 sᴄʀɪᴘᴛ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
-│✘ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ ᴀɴɴ ᴍᴡᴏɴᴇ 🙂
+│✘ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ ᴀɴɴ ᴍᴡᴏɴᴇ......  sᴄʀɪᴘᴛ ᴠᴇɴᴇʟ ᴏᴡɴᴇʀ ɴᴇ ᴄᴏɴᴛᴀᴄᴛ 
+wa.me/919745310120 🙂
 └──────😫sᴇᴅ ʟʏғᴇ😫──────𒆜`
 const buttons = [{buttonId: `menu`, buttonText: {displayText: 'ᴍᴇɴᴜ️'}, type: 1},{buttonId: `credit`, buttonText: {displayText: 'ᴄʀᴇᴀᴛᴏʀs'}, type: 1}]
 const buttonMessage = {
     contentText: `${anu}`,
-    footerText: '*_©ꪶ͢ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜuꫂ⁩_*',
+    footerText: '*_©ʀᴀғʜᴀɴ sᴇʀ_*',
     buttons: buttons,
     headerType: 1
 }
